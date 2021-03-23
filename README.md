@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me 
 - https://www.linkedin.com/in/arieltecay/
 - https://www.facebook.com/ariel.tecay
--->

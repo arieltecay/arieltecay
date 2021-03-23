@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**arieltecay/arieltecay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some personals projects, colaborating with the comunity and finding new challenges and jobs 

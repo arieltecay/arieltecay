@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me <br>
 - 📫 Working and learnin the next developer tools.<br>
 <div>
-  <img src="./assets/javascript.png" width="35px" />
-  <img src="./assets/react.png" width="355px" />
-  <img src="./assets/angular.png" width="35px" />
-  <img src="./assets/mongo.png" width="35px" />
-  <img src="./assets/postgresql.png" width="35px" />
-  <img src="./assets/css.png" width="35px" />
+  <img src="./assets/Javascript.png" width="45px" />
+  <img src="./assets/react.png" width="45px" />
+  <img src="./assets/angular.png" width="45px" />
+  <img src="./assets/mongo.png" width="45px" />
+  <img src="./assets/postgresql.png" width="45px" />
+  <img src="./assets/css.png" width="45px" />
 </div>
 
 - https://www.linkedin.com/in/arieltecay/

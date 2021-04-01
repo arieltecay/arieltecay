@@ -7,11 +7,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about whatever you want, about programming...
 - 📫 How to reach me <br>
 - 📫 Working and learnin the next developer tools.<br>
-<img src="./assets/javascript.png" width="25px" />
-<img src="./assets/react.png" width="25px" />
-<img src="./assets/angular.png" width="25px" />
-<img src="./assets/mongo.png" width="25px" />
-<img src="./assets/postgresql.png" width="25px" />
-<img src="./assets/css.png" width="25px" />
+<div>
+  <img src="./assets/javascript.png" width="25px" />
+  <img src="./assets/react.png" width="25px" />
+  <img src="./assets/angular.png" width="25px" />
+  <img src="./assets/mongo.png" width="25px" />
+  <img src="./assets/postgresql.png" width="25px" />
+  <img src="./assets/css.png" width="25px" />
+</div>
+
 - https://www.linkedin.com/in/arieltecay/
 - https://www.facebook.com/ariel.tecay
